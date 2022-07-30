@@ -4,6 +4,10 @@
 - try to solve `var` problem, lexical scope and hosting
 - block scope
 
+# const
+
+- can be changed if reference
+
 # var
 
 - lexical scope / static scope
